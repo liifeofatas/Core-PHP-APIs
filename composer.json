@@ -1,0 +1,17 @@
+{
+    "name": "justi/student-dah",
+    "autoload": {
+        "psr-4": {
+            "Justi\\StudentDah\\Services\\": "src/services/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "justice"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

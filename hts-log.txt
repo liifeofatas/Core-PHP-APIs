@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Sep 2024 00:52:11 at https://learnplus.demo.frontendmatter.com/student-dashboard.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://learnplus.demo.frontendmatter.com/student-dashboard.html -O1 "C:\Users\justi\Desktop\swertyu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:54:26	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/student-signup.html (from https://learnplus.demo.frontendmatter.com/student-account-billing-upgrade.html)
+00:54:27	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/student-student-take-course.html (from https://learnplus.demo.frontendmatter.com/student-my-courses.html)
+00:54:28	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/assets/css/summernote.css (from https://learnplus.demo.frontendmatter.com/student-forum-thread.html)
+00:54:28	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/assets/vendor/summernote.min.js (from https://learnplus.demo.frontendmatter.com/student-forum-thread.html)
+00:54:28	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/assets/js/summernote.js (from https://learnplus.demo.frontendmatter.com/student-forum-thread.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-cart.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-view-course.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-invoice-settings.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-browse-courses.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-take-course.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-take-quiz.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-quiz-results.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:35	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/instructor-my-courses.html (from https://learnplus.demo.frontendmatter.com/instructor-invoice.html)
+00:54:40	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/index.html (from https://learnplus.demo.frontendmatter.com/ui-forms.html)
+00:54:42	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/assets/css/morris.css (from https://learnplus.demo.frontendmatter.com/ui-charts.html)
+00:54:43	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/tutorials/data-visualization/ (from https://learnplus.demo.frontendmatter.com/ui-maps-vector.html)
+00:54:45	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-student-signup.html (from https://learnplus.demo.frontendmatter.com/fixed-student-account-billing-upgrade.html)
+00:54:45	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-student-student-take-course.html (from https://learnplus.demo.frontendmatter.com/fixed-student-my-courses.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-cart.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-view-course.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice-settings.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-browse-courses.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-take-course.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-take-quiz.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-quiz-results.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:50	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-instructor-my-courses.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-invoice.html)
+00:54:51	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-student-courses.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-help-center.html)
+00:54:51	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-student-quizzes.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-help-center.html)
+00:54:51	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-student-earnings.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-help-center.html)
+00:54:51	Error: 	"Not Found" (404) at link https://learnplus.demo.frontendmatter.com/fixed-student-statement.html (from https://learnplus.demo.frontendmatter.com/fixed-instructor-help-center.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 40 seconds : 288 links scanned, 257 files written (18833243 bytes overall) [5324591 bytes received at 33278 bytes/sec], 17550085 bytes transferred using HTTP compression in 220 files, ratio 21%, 36.0 requests per connection
+(30 errors, 0 warnings, 0 messages)
