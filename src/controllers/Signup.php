@@ -17,6 +17,8 @@ include '../config/Config.php';
         $user = new UserService($conn);
         $response= $user->saveUser($email,$password);
         //gg
+
+        //login
         header('Content-Type: application/json');
         header('Access-Control-Allow-Origin: *');
         echo $response;
