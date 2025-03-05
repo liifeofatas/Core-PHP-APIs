@@ -14,8 +14,11 @@ include '../config/Config.php';
 
         $email = $data['email'];
         $password = $data['password'];
+        $name = $data['name'];
+        $phone = $data['phone'];
+        $gender = $data['gender'];
         $user = new UserService($conn);
-        $response= $user->saveUser($email,$password);
+        $response= $user->register($email,$password,$name,$phone,$gender);
         //gg
 
         //login

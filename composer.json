@@ -2,7 +2,9 @@
     "name": "justi/student-dah",
     "autoload": {
         "psr-4": {
-            "Justi\\StudentDah\\Services\\": "src/services/"
+            "Justi\\StudentDah\\Services\\": "src/services/",
+            "Justi\\StudentDah\\Middleware\\": "src/middleware/",
+            "Justi\\StudentDah\\Utils\\": "src/utils/"
         }
     },
 
@@ -12,6 +14,7 @@
         }
     ],
     "require": {
-        "phpmailer/phpmailer": "^6.9"
+        "phpmailer/phpmailer": "^6.9",
+        "firebase/php-jwt": "^6.11"
     }
 }
