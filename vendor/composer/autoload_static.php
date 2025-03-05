@@ -13,7 +13,13 @@ class ComposerStaticInit68f70e9192f9ca7ecd3202a058bbb36e
         ),
         'J' => 
         array (
+            'Justi\\StudentDah\\Utils\\' => 23,
             'Justi\\StudentDah\\Services\\' => 26,
+            'Justi\\StudentDah\\Middleware\\' => 28,
+        ),
+        'F' => 
+        array (
+            'Firebase\\JWT\\' => 13,
         ),
     );
 
@@ -22,9 +28,21 @@ class ComposerStaticInit68f70e9192f9ca7ecd3202a058bbb36e
         array (
             0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
         ),
+        'Justi\\StudentDah\\Utils\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/utils',
+        ),
         'Justi\\StudentDah\\Services\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/services',
+        ),
+        'Justi\\StudentDah\\Middleware\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/middleware',
+        ),
+        'Firebase\\JWT\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/firebase/php-jwt/src',
         ),
     );
 
